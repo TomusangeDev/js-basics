@@ -1,9 +1,9 @@
-# JavaScript Basics 🟨
+# JavaScript Basics
 
 This repository contains my JavaScript learning journey.  
 I’m using it to practice core JavaScript concepts with small examples and mini projects as I grow.
 
-## 📌 What I'm Learning
+## What I'm Learning
 - Variables
 - Data types
 - Operators
@@ -13,9 +13,12 @@ I’m using it to practice core JavaScript concepts with small examples and mini
 - Basic DOM manipulation
 - Events
 
-## 📂 Project Structure
+## Project Structure
 Each topic has its own folder, for example:
-_Variables(folder📂)
-     |———variables.html
-     |———variables.js_
+
+<b>_Variables(folder📂)_<b/>
+
+        |———variables.html
+        
+        |———variables.js
      
