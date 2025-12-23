@@ -16,7 +16,7 @@ I’m using it to practice core JavaScript concepts with small examples and mini
 ## Project Structure
 Each topic has its own folder, for example:
 
-<b>_Variables(folder📂)_<b/>
+<b>_variables(folder📂)_<b/>
 
         |———variables.html
         
